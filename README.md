@@ -16,3 +16,21 @@ The README contains a step-by-step guide to help you quickly integrate Immutable
 
 - 📁 `app.js`: A well-structured Node.js application with pre-configured Immutable Passport integration.
 - 📄 `README.md`: A detailed guide, complete with code snippets, to assist you during the integration process.
+
+Usage:
+
+1. Clone this repository to your local environment.
+2. Follow the comprehensive guide in the README to understand and execute the integration process.
+3. Customize the codebase as needed to fit your specific application requirements.
+
+ Resources:
+
+- Immutable Passport Documentation:(https://docs.immutable.com/docs/zkEVM/products/passport) Access the official Immutable Passport documentation to gain deeper insights into its capabilities.
+- Immutable Developer Hub: Visit the Immutable Developer Hub for additional resources and support.
+
+Explore this repository to quickly integrate Immutable Passport into your web application. The provided code example and guide simplify the process, ensuring that you can enjoy the benefits of blockchain-based user management without hassle. If you find this resource valuable, don't forget to give it a star!
+
+---
+
+This summarized description maintains clarity and conciseness while highlighting the key features and resources for users interested in integrating Immutable Passport into their applications.
+
